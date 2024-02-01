@@ -31,6 +31,7 @@ public class LoginClass {
 		user.sendKeys(config.getUser());
 		pass.sendKeys(config.getPass());
 		System.out.println("You are successfull");
+		System.out.println("Change Commited");
 
 	}
 
